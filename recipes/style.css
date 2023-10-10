@@ -1,0 +1,17 @@
+.information-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.information-table td {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.information-table td:nth-child(odd) {
+    background-color: lightblue;
+}
+
+.description {
+    text-align: center;
+}
